@@ -1,0 +1,6 @@
+langchain
+neo4j
+yfiles_jupyter_graphs
+pymupdf
+python-dotenv
+spacy
