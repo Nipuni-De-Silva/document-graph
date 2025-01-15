@@ -1,0 +1,21 @@
+1. create virtual environment
+python -m venv venv
+
+
+2. activate virtual environment
+.\venv\Scripts\activate 
+
+
+3. install installations.txt
+pip install -r installations.txt
+
+
+
+
+
+## if error occured in en_core_web_sm - install
+
+python -m spacy download en_core_web_sm
+
+
+## change the document locations also
